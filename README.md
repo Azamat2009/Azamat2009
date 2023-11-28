@@ -1,6 +1,10 @@
-![image](https://user-images.githubusercontent.com/116718721/217875311-adae992d-1a52-468c-8ed6-e1e8cf656921.png)
+
+![photo_2023-05-31_12-47-56 (1) (3)](https://github.com/Azamat2009/Azamat2009/assets/116718721/94e9bed5-1281-4bd0-8a62-346dff5f3e98)
+
+
 
 <h1>Автор канала IT-WithEnd</h1>
+
 
 Меня зовут <b>Рахматов Азамат</b> я начинающий веб-разработчик,занимаюсь веб-разработкой с 2022 года.
 
